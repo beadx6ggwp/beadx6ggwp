@@ -4,6 +4,7 @@
 
 - 📫 How to reach me **davidmd9830415@gmail.com**
 
+![img](https://i.imgur.com/G2H4F7H.png)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=beadx6ggwp&show_icons=true&locale=en&layout=compact" alt="beadx6ggwp" /></p>
 
