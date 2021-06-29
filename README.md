@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm bead</h1>
+<h1 align="center">Hi 👋</h1>
 <h3 align="center"></h3>
 
 - 🌱 I’m currently learning **Computer Graphics**
